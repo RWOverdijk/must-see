@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=dC9vdQkU-xI
 ### "Uncle" Bob Martin - "The Future of Programming"
 
 https://www.youtube.com/watch?v=ecIWPzGEbFc
+
+### ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers
+
+https://www.youtube.com/watch?v=ZsHMHukIlJY
