@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=ZsHMHukIlJY
 ### The world is poorly designed. But copying nature helps.
 
 https://www.youtube.com/watch?v=iMtXqTmfta0
+
+### he Mother of All Demos, presented by Douglas Engelbart (1968)
+
+https://www.youtube.com/watch?v=yJDv-zdhzMY
