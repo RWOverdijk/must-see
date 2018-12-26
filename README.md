@@ -25,3 +25,9 @@ https://www.youtube.com/watch?v=iMtXqTmfta0
 ### The Mother of All Demos, presented by Douglas Engelbart (1968)
 
 https://www.youtube.com/watch?v=yJDv-zdhzMY
+
+### TempleOS | Down the Rabbit Hole
+
+**Trigger warning:** Not exactly a happy story. Still interesting.
+
+https://www.youtube.com/watch?v=UCgoxQCf5Jg
